@@ -4,6 +4,7 @@
 
 ответ:
 DEB: Ubuntu, Kali Linux
+
 RPM: Fedora, Cent OS
 
 Задание 2
