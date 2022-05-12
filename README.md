@@ -39,9 +39,9 @@ so - это swap out. Объем памяти, перенесенный на д�
 Примечание: при выполнении задания предполагается использование конструкции "{команда} | grep {параметр для фильтрации вывода}" в каталоге /proc
 
 ответ:
-lscpu | grep Architecture
-cat /proc/cpuinfo | grep model name
-cat /proc/meminfo | grep Inactive
+1. lscpu | grep Architecture
+2. cat /proc/cpuinfo | grep model name
+3. cat /proc/meminfo | grep Inactive
 
 Задание 6
 ответ:
