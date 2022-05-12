@@ -3,9 +3,8 @@
 Назовите по два DEB и RPM дистрибутива Linux
 
 ответ:
-DEB: Ubuntu, Kali Linux
-
-RPM: Fedora, Cent OS
+1. DEB: Ubuntu, Kali Linux
+2. RPM: Fedora, Cent OS
 
 Задание 2
 Объясните, что делает команда:
